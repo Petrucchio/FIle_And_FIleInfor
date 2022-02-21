@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\FIle_And_FIleInfor.exe
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\FIle_And_FIleInfor.deps.json
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\FIle_And_FIleInfor.runtimeconfig.json
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\FIle_And_FIleInfor.dll
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\ref\FIle_And_FIleInfor.dll
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\bin\Debug\net6.0\FIle_And_FIleInfor.pdb
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.AssemblyInfo.cs
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.dll
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\ref\FIle_And_FIleInfor.dll
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.pdb
+C:\Users\User\source\repos\FIle_And_FIleInfor\FIle_And_FIleInfor\obj\Debug\net6.0\FIle_And_FIleInfor.genruntimeconfig.cache
