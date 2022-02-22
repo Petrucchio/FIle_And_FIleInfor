@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FIle_And_FIleInfor\\FIle_And_FIleInfor\\FIle_And_FIleInfor.csproj",
-      "projectName": "FIle_And_FIleInfor",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FIle_And_FIleInfor\\FIle_And_FIleInfor\\FIle_And_FIleInfor.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Files_And_Streams\\FIle_And_FIleInfor\\Files_And_Streams.csproj",
+      "projectName": "Files_And_Streams",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Files_And_Streams\\FIle_And_FIleInfor\\Files_And_Streams.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FIle_And_FIleInfor\\FIle_And_FIleInfor\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Files_And_Streams\\FIle_And_FIleInfor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
