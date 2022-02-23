@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\Files_And_Streams.exe
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\Files_And_Streams.deps.json
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\Files_And_Streams.runtimeconfig.json
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\Files_And_Streams.dll
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\ref\Files_And_Streams.dll
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\bin\Debug\net6.0\Files_And_Streams.pdb
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.AssemblyInfo.cs
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.dll
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\ref\Files_And_Streams.dll
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.pdb
+C:\Users\User\source\repos\Files_And_Streams\FIle_And_FIleInfor\obj\Debug\net6.0\Files_And_Streams.genruntimeconfig.cache

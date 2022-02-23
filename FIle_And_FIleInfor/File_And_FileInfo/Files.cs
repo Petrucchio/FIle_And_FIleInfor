@@ -5,21 +5,21 @@ namespace FIle_And_FIleInfor.File_And_FileInfo
 
     internal class Files
     {
-        static void CreateFile2()
-        {
-            WriteLine("Digite o nome do arquivo:");
+        //static void Main(string[] args)
+        //{
+        //    WriteLine("Digite o nome do arquivo:");
 
-            var name = ReadLine();
+        //    var name = ReadLine();
 
-            name = ClearName(name);
+        //    name = ClearName(name);
 
-            var path = Path.Combine(Environment.CurrentDirectory, $"{name}.txt");
+        //    var path = Path.Combine(Environment.CurrentDirectory, $"{name}.txt");
 
-            CreateFile(path);
+        //    CreateFile(path);
 
-            WriteLine("Digite enter para finalizar...");
-            ReadLine();
-        }
+        //    WriteLine("Digite enter para finalizar...");
+        //    ReadLine();
+        //}
 
         static string ClearName(string name)
         {

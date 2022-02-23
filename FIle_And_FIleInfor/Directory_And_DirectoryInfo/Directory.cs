@@ -4,17 +4,17 @@ namespace FIle_And_FIleInfor.Directory_And_DirectoryInfo
     
     internal class Directory
     {
-        static void Main(string[] args)
-        {
-            CreateDirectoryGlobo();
-            CreateFile();
-            var origin = Path.Combine(Environment.CurrentDirectory, "brasil.txt");
-            var destiny = Path.Combine(Environment.CurrentDirectory,"globo","América do Sul","Argentina","argentina.txt");
-            MoveFile(origin, destiny);
-            CopyFile(origin, destiny);
-            var path = Path.Combine(Environment.CurrentDirectory, "globo");
-            ReadDirectories(path);
-        }
+        //static void Main(string[] args)
+        //{
+        //    CreateDirectoryGlobo();
+        //    CreateFile();
+        //    var origin = Path.Combine(Environment.CurrentDirectory, "brasil.txt");
+        //    var destiny = Path.Combine(Environment.CurrentDirectory,"globo","América do Sul","Argentina","argentina.txt");
+        //    MoveFile(origin, destiny);
+        //    CopyFile(origin, destiny);
+        //    var path = Path.Combine(Environment.CurrentDirectory, "globo");
+        //    ReadDirectories(path);
+        //}
         static void ReadDirectories(string path)
         {
             var directories = System.IO.Directory.GetDirectories(path, "*", SearchOption.AllDirectories);
