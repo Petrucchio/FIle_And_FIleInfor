@@ -3,14 +3,14 @@ namespace Files_And_Streams.Directory_And_DirectoryInfo
 {
     internal class DirectoryInform
     {
-        static void Main(string[] args)
-        {
-            var path = @"c:\temp\globo";
-            ReadDirectory(path);
-            ReadFiles(path);
-            Console.WriteLine("Digite [enter] para finalizar...");
-            Console.ReadLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    var path = @"c:\temp\globo";
+        //    ReadDirectory(path);
+        //    ReadFiles(path);
+        //    Console.WriteLine("Digite [enter] para finalizar...");
+        //    Console.ReadLine();
+        //}
 
         static void ReadFiles(string path)
         {
