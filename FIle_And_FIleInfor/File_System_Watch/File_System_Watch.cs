@@ -8,20 +8,20 @@ namespace Files_And_Streams.File_System_Watch
 {
     internal class File_System_Watch
     {
-        static void Main(string[] args)
-        {
-            var path = @"c:\temp\globo";
-            using var fileSystemWatcher = new FileSystemWatcher(path);
-            fileSystemWatcher.Created += OnCreate;
-            fileSystemWatcher.Renamed += OnRenamed;
-            fileSystemWatcher.Deleted += OnDeleted;
-            fileSystemWatcher.EnableRaisingEvents = true;
-            fileSystemWatcher.IncludeSubdirectories = true;
+        //static void Main(string[] args)
+        //{
+        //    var path = @"c:\temp\globo";
+        //    using var fileSystemWatcher = new FileSystemWatcher(path);
+        //    fileSystemWatcher.Created += OnCreate;
+        //    fileSystemWatcher.Renamed += OnRenamed;
+        //    fileSystemWatcher.Deleted += OnDeleted;
+        //    fileSystemWatcher.EnableRaisingEvents = true;
+        //    fileSystemWatcher.IncludeSubdirectories = true;
 
-            Console.WriteLine($"Monitorando eventos na pasta {path}");
-            Console.WriteLine("Pressione [enter] para finalizar....");
-            Console.ReadLine();
-        }
+        //    Console.WriteLine($"Monitorando eventos na pasta {path}");
+        //    Console.WriteLine("Pressione [enter] para finalizar....");
+        //    Console.ReadLine();
+        //}
 
         private static void OnDeleted(object sender, FileSystemEventArgs e)
         {
